@@ -13,3 +13,6 @@ A tiny static page used to practice:
 - `index.html` - main page
 - `style.css` - basic styling
 - `README.md` - this file
+## Status
+This project is being used to practice Git branching and pull requests.
+
